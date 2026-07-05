@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm **Ulkesh Patil** 👋
 
-<!--
-**Ulkesh-Patil/Ulkesh-Patil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Engineer with nearly **3 years of experience** in Microsoft Azure, cloud operations, and cloud infrastructure. Experienced in designing, deploying, and managing Azure IaaS and PaaS services, with hands-on expertise in infrastructure automation using Terraform and Azure DevOps.
 
-Here are some ideas to get you started:
+I have worked with Azure services including Virtual Machines, Storage Accounts, Virtual Networks (VNets), Network Security Groups (NSGs), Load Balancers, ExpressRoute, App Services, Microsoft Entra ID (Azure AD), and Azure Monitor. I enjoy automating cloud infrastructure, streamlining deployments, and continuously learning modern DevOps practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills**
+
+- Microsoft Azure (IaaS & PaaS)
+- Terraform
+- Azure DevOps
+- Git & GitHub
+- Linux
+- Bash (Shell Scripting)
+- YAML
+
+**Currently Learning**
+
+- Docker
+- Kubernetes
+
+**Certifications:-**
+
+- AZ 900 (Azure fundamentals)
+- AZ 104 (Azure Administrator)
+
